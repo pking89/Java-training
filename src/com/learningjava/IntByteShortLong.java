@@ -1,6 +1,6 @@
 package com.learningjava;
 
-public class Main {
+public class IntByteShortLong {
 
     public static void main(String[] args) {
 
@@ -33,6 +33,13 @@ public class Main {
 
         int myTotal = (myMinIntValue / 2);
         byte myNewByteValue = (byte) (myMinByteValue / 2);
+        short myNewShortValue = (short) (myMinShortValue / 2);
+
+        //Video Challenge for Primitive Type Data
+
+
+
+
 
     }
 }
