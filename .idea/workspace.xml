@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1c4d58d-c1f6-4a9a-a71e-b788dcc92658" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learningjava/LoggingExamples/ExampleUsingLog4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learningjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learningjava/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +107,7 @@
       <workItem from="1605026987328" duration="3987000" />
       <workItem from="1605108560046" duration="9882000" />
       <workItem from="1605122967955" duration="59000" />
-      <workItem from="1605196880364" duration="302000" />
+      <workItem from="1605196880364" duration="630000" />
     </task>
     <servers />
   </component>

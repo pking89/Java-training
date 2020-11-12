@@ -1,8 +1,15 @@
 package com.learningjava;
 
+import com.learningjava.LoggingExamples.ExampleUsingLog4J;
+import org.apache.log4j.BasicConfigurator;
+
 public class Main {
 
     public static void main(String[] args) {
+
+        // this static method call
+        // initializes the log4j appender
+        BasicConfigurator.configure();
 
         int myValue = 10000;
 
@@ -33,6 +40,10 @@ public class Main {
 
         int myTotal = (myMinIntValue / 2);
         byte myNewByteValue = (byte) (myMinByteValue / 2);
+
+        System.out.println("****************************************************");
+
+        ExampleUsingLog4J.println("This is a message using log4j static class and configuration");
 
     }
 }
