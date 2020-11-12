@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1c4d58d-c1f6-4a9a-a71e-b788dcc92658" name="Default Changelist" comment="" />
+    <list default="true" id="a1c4d58d-c1f6-4a9a-a71e-b788dcc92658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
   </component>
   <component name="JupyterTrust" id="f446e031-e2ca-45e1-a87e-f38124f5d730" />
   <component name="ProjectId" id="1k6hXK41EyclFmlZuEQgPN7lqTZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Programming Course/craigd-spring-boot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.PrimitiveTypesChallenge" />
@@ -110,7 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605026986264</updated>
       <workItem from="1605026987328" duration="3987000" />
-      <workItem from="1605108560046" duration="9062000" />
+      <workItem from="1605108560046" duration="9882000" />
+      <workItem from="1605122967955" duration="59000" />
+      <workItem from="1605196880364" duration="302000" />
     </task>
     <servers />
   </component>
@@ -127,31 +119,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1691" y="758" key="FileChooserDialogImpl" timestamp="1605108872703">
+    <state x="1691" y="758" key="FileChooserDialogImpl" timestamp="1605123016814">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1691" y="758" key="FileChooserDialogImpl/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605108872703" />
-    <state width="1196" height="177" key="GridCell.Tab.0.bottom" timestamp="1605115040206">
+    <state x="1691" y="758" key="FileChooserDialogImpl/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605123016814" />
+    <state width="1196" height="177" key="GridCell.Tab.0.bottom" timestamp="1605122855672">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1196" height="177" key="GridCell.Tab.0.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605115040206" />
-    <state width="1196" height="177" key="GridCell.Tab.0.center" timestamp="1605115040205">
+    <state width="1196" height="177" key="GridCell.Tab.0.bottom/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605122855672" />
+    <state width="1196" height="177" key="GridCell.Tab.0.center" timestamp="1605122855672">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1196" height="177" key="GridCell.Tab.0.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605115040205" />
-    <state width="1196" height="177" key="GridCell.Tab.0.left" timestamp="1605115040205">
+    <state width="1196" height="177" key="GridCell.Tab.0.center/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605122855672" />
+    <state width="1196" height="177" key="GridCell.Tab.0.left" timestamp="1605122855672">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1196" height="177" key="GridCell.Tab.0.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605115040205" />
-    <state width="1196" height="177" key="GridCell.Tab.0.right" timestamp="1605115040206">
+    <state width="1196" height="177" key="GridCell.Tab.0.left/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605122855672" />
+    <state width="1196" height="177" key="GridCell.Tab.0.right" timestamp="1605122855672">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1196" height="177" key="GridCell.Tab.0.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605115040206" />
+    <state width="1196" height="177" key="GridCell.Tab.0.right/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605122855672" />
     <state x="274" y="523" key="SettingsEditor" timestamp="1605032819121">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="274" y="523" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605032819121" />
+    <state x="1502" y="640" key="new project wizard" timestamp="1605123024444">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1502" y="640" key="new project wizard/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1605123024444" />
   </component>
 </project>
