@@ -2,7 +2,7 @@ package PrimitiveTypes;
 
 public class CharAndBoolean {
 
-    public static void main(String[] args) {
+    public static void test() {
 
         char myChar = 'D';
         char myUnicode = '\u0044';

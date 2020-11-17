@@ -2,7 +2,7 @@ package PrimitiveTypes;
 
 public class IntByteShortLong {
 
-    public static void main(String[] args) {
+    public static void test() {
 
         int myValue = 10000;
 

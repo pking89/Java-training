@@ -2,7 +2,7 @@ package PrimitiveTypes;
 
 public class StringData {
 
-    public static void main(String[] args) {
+    public static void test() {
         // byte
         // short
         // int
