@@ -28,7 +28,7 @@
         <finalName>learning-java</finalName>
         <resources>
             <resource>
-                <directory>src/main/resources</directory>
+                <directory>java-project1/src/main/resources</directory>
             </resource>
         </resources>
         <plugins>
