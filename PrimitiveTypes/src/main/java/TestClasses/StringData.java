@@ -1,4 +1,4 @@
-package PrimitiveTypes;
+package TestClasses;
 
 public class StringData {
 

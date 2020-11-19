@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.learningjava</groupId>
-    <artifactId>learning-shit</artifactId>
+    <artifactId>learning-stuff</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>learning-java</name>
     <description>Demo project for Learning Java Schtuff</description>

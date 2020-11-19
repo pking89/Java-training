@@ -1,6 +1,6 @@
-package PrimitiveTypes;
+package TestClasses;
 
-import TestClasses.MyNewClass;
+import TestClasses.Main;
 
 public class Main {
 
@@ -8,25 +8,28 @@ public class Main {
 
         // This is the main entry point to th program
         System.out.println("CharAndBoolean output");
-        PrimitiveTypes.CharAndBoolean.test();
+        TestClasses.CharAndBoolean.test();
         System.out.println("**********************");
 
         System.out.println("FloatAndDouble output");
-        PrimitiveTypes.FloatAndDouble.test();
+        TestClasses.FloatAndDouble.test();
         System.out.println("**********************");
 
         System.out.println("FloatingChallenge output");
-        PrimitiveTypes.FloatingChallenge.test();
+        TestClasses.FloatingChallenge.test();
         System.out.println("**********************");
 
         System.out.println("IntByteShortLong output");
-        PrimitiveTypes.IntByteShortLong.test();
+        TestClasses.IntByteShortLong.test();
         System.out.println("**********************");
 
         System.out.println("StringData output");
-        PrimitiveTypes.StringData.test();
+        TestClasses.StringData.test();
         System.out.println("**********************");
 
-        MyNewClass.test();
+        System.out.println("Operators output");
+        TestClasses.Operators.test();
+        System.out.println("**********************");
+
     }
 }
